@@ -1,2 +1,2 @@
-# PWM-Techniques-
+# PWM-Techniques
 Configurable PWM Techniques for Motor drive applications 
